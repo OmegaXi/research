@@ -1,0 +1,7 @@
+1.登录页面为index.jsp页面中的请求提交到src文件夹中login.loginServlet
+2.注册页面为register.jsp请求提交到src中login.register
+3.普通单位管理页面为filter_unitmanager请求提交到login.unitapply
+4.管理员的页面为filter_manager请求提交到login.manager
+5.管理员的添加项目页面为ddpro请求提交到login.addpro
+6.管理员的修改项目页面为itdoredit请求提交到login.edit
+7.管理员的单位信息修改页面为unitedit请求提交到login.unitedit
